@@ -54,7 +54,7 @@ Sistema moderno de gerenciamento hoteleiro com interface web intuitiva, desenvol
 ### 1. Clone o Repositório
 
 \`\`\`bash
-git clone https://github.com/seu-usuario/IN-hotel.git
+git clone https://github.com/seu-usuario/IN-hotel       
 cd IN-hotel
 \`\`\`
 
