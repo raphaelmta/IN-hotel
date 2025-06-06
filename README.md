@@ -89,24 +89,7 @@ A documentação interativa da API está disponível em: [http://localhost:8000/
 
 ---
 
-## 🤝 Contribuição
 
-1. Fork o projeto.  
-2. Crie uma branch para sua feature:  
-   ```bash
-   git checkout -b feature/minha-feature
-   ```
-3. Commit suas mudanças:  
-   ```bash
-   git commit -m 'feat: Adiciona nova funcionalidade'
-   ```
-4. Push para a branch:  
-   ```bash
-   git push origin feature/minha-feature
-   ```
-5. Abra um Pull Request.  
-
----
 
 ## 📝 Licença
 
