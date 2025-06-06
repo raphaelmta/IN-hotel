@@ -1,0 +1,18 @@
+{
+  "clientes": [],
+  "quartos": [
+    {
+      "numero": "101",
+      "tipo": "Solteiro",
+      "preco": "150.00",
+      "status": true,
+      "created_at": "2025-06-05T15:08:54.937069"
+    }
+  ],
+  "reservas": [],
+  "hotelInfo": {
+    "nome": "Infinity Hotel",
+    "endereco": "Av. do Contorno, 6480 - Savassi, Belo Horizonte",
+    "telefone": "(31) 3333-4444"
+  }
+}

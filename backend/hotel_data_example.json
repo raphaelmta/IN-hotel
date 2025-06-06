@@ -1,0 +1,46 @@
+{
+  "clientes": [
+    {
+      "id": "1",
+      "nome": "João Silva",
+      "email": "joao@email.com",
+      "telefone": "(31) 99999-1111",
+      "created_at": "2024-01-15T10:30:00"
+    }
+  ],
+  "quartos": [
+    {
+      "numero": "101",
+      "tipo": "Solteiro",
+      "preco": "120.00",
+      "status": true,
+      "created_at": "2024-01-15T10:00:00"
+    },
+    {
+      "numero": "201",
+      "tipo": "Suíte",
+      "preco": "450.00",
+      "status": true,
+      "created_at": "2024-01-15T10:00:00"
+    }
+  ],
+  "reservas": [
+    {
+      "id": "1",
+      "cliente_id": "1",
+      "quarto_numero": "101",
+      "data_check_in": "2024-02-01",
+      "data_check_out": "2024-02-05",
+      "status": "Confirmada",
+      "pago": false,
+      "created_at": "2024-01-15T11:00:00",
+      "cliente_nome": "João Silva",
+      "quarto_tipo": "Solteiro"
+    }
+  ],
+  "hotelInfo": {
+    "nome": "Infinity Hotel",
+    "endereco": "Av. do Contorno, 6480 - Savassi, Belo Horizonte",
+    "telefone": "(31) 3333-4444"
+  }
+}
