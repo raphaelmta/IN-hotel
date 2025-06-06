@@ -54,8 +54,8 @@ Sistema moderno de gerenciamento hoteleiro com interface web intuitiva, desenvol
 ### 1. Clone o Repositório
 
 \`\`\`bash
-git clone https://github.com/seu-usuario/infinity-hotel-management.git
-cd infinity-hotel-management
+git clone https://github.com/seu-usuario/IN-hotel.git
+cd IN-hotel
 \`\`\`
 
 ### 2. Configuração do Backend
@@ -223,8 +223,8 @@ Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICE
 Se você encontrar algum problema ou tiver dúvidas:
 
 1. Verifique a [documentação](#documentação)
-2. Procure em [Issues existentes](https://github.com/seu-usuario/infinity-hotel-management/issues)
-3. Crie uma [Nova Issue](https://github.com/seu-usuario/infinity-hotel-management/issues/new)
+2. Procure em [Issues existentes](https://github.com/seu-usuario/IN-hotel/issues)
+3. Crie uma [Nova Issue](https://github.com/seu-usuario/IN-hotel/issues/new)
 
 ---
 
